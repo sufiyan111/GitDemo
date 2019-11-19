@@ -12,6 +12,15 @@ public class AppiumTest {
 	@Test
 	public void Kanpur(){
 		System.out.println("This is Kanpur city");
+		System.out.println("This is Monday");
+		System.out.println("This is Wed");
+		System.out.println("This is Thurs");
+		System.out.println("This is Friday");
+		
+		System.out.println("This is Monday");
+		System.out.println("This is Wed");
+		System.out.println("This is Thurs");
+		System.out.println("This is Friday");
 	}
 
 }
