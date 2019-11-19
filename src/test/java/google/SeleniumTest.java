@@ -7,6 +7,11 @@ public class SeleniumTest {
 	@Test
 	public void March(){
 		System.out.println("This is march month");
+		
+		System.out.println("This is Monday");
+		System.out.println("This is Wed");
+		System.out.println("This is Thurs");
+		System.out.println("This is Friday");
 	}
 	@Test
 	public void April(){
